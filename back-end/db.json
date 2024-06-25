@@ -1,0 +1,3552 @@
+{
+  "women": {
+    "bestsellers": [
+      {
+        "id": 26,
+        "gender": "women",
+        "category": "obuwie",
+        "subcategory": "eleganckie",
+        "productName": "Szpilki brązowe M&X",
+        "brand": "M&X Collection",
+        "pricePLN": 79,
+        "priceUSD": 19,
+        "photos": [
+          "http://localhost:3000/product-photos/women-shoes-1.jpg",
+          "http://localhost:3000/product-photos/women-shoes-2.jpg",
+          "http://localhost:3000/product-photos/women-shoes-3.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 27,
+        "gender": "women",
+        "category": "obuwie",
+        "subcategory": "eleganckie",
+        "productName": "Szpilki Białe M&X",
+        "brand": "M&X Collection",
+        "pricePLN": 99,
+        "priceUSD": 25,
+        "photos": [
+          "http://localhost:3000/product-photos/women-shoes-2.jpg",
+          "http://localhost:3000/product-photos/women-shoes-3.jpg",
+          "http://localhost:3000/product-photos/women-shoes-1.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 28,
+        "gender": "women",
+        "category": "odziez",
+        "subcategory": "koszulki",
+        "productName": "Koszulka Czarna Magic",
+        "brand": "Sun zi",
+        "pricePLN": 199,
+        "priceUSD": 49,
+        "photos": [
+          "http://localhost:3000/product-photos/women-shirt-1.jpg",
+          "http://localhost:3000/product-photos/women-shirt-5.jpg",
+          "http://localhost:3000/product-photos/women-shirt-2.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 29,
+        "gender": "women",
+        "category": "odziez",
+        "subcategory": "spodnie",
+        "productName": "Szorty damskie Jeans",
+        "brand": "Jeans",
+        "pricePLN": 149,
+        "priceUSD": 39,
+        "photos": [
+          "http://localhost:3000/product-photos/women-pants-5.jpg",
+          "http://localhost:3000/product-photos/women-pants-2.jpg",
+          "http://localhost:3000/product-photos/women-pants-3.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      }
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+    "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu",
+    "heroImageUrl": "http://localhost:3000/product-photos/women.jpg"
+  },
+  "men": {
+    "bestsellers": [
+      {
+        "id": 1,
+        "gender": "men",
+        "category": "odziez",
+        "subcategory": "koszulki",
+        "productName": "T-Shirt",
+        "brand": "Top Brand",
+        "pricePLN": 49,
+        "priceUSD": 10,
+        "photos": [
+          "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+          "http://localhost:3000/product-photos/men-t-shirt-4.jpg",
+          "http://localhost:3000/product-photos/men-t-shirt-3.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 2,
+        "gender": "men",
+        "category": "odziez",
+        "subcategory": "koszulki",
+        "productName": "T-Shirt",
+        "brand": "Top Brand",
+        "pricePLN": 49,
+        "priceUSD": 10,
+        "photos": [
+          "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+          "http://localhost:3000/product-photos/men-t-shirt-4.jpg",
+          "http://localhost:3000/product-photos/men-t-shirt-3.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 3,
+        "gender": "men",
+        "category": "odziez",
+        "subcategory": "koszulki",
+        "productName": "T-shirt 2",
+        "brand": "Sun Tzu",
+        "pricePLN": 199,
+        "priceUSD": 49,
+        "photos": [
+          "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+          "http://localhost:3000/product-photos/men-t-shirt-3.jpg",
+          "http://localhost:3000/product-photos/men-t-shirt-4.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 4,
+        "gender": "men",
+        "category": "odziez",
+        "subcategory": "koszulki",
+        "productName": "T-shirt 3",
+        "brand": "Sun Tzu",
+        "pricePLN": 199,
+        "priceUSD": 49,
+        "photos": [
+          "http://localhost:3000/product-photos/men-t-shirt-13.jpg",
+          "http://localhost:3000/product-photos/men-t-shirt-4.jpg",
+          "http://localhost:3000/product-photos/men-t-shirt-1.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      }
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+    "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu",
+    "heroImageUrl": "http://localhost:3000/product-photos/men.jpg"
+  },
+  "children": {
+    "bestsellers": [
+      {
+        "id": 30,
+        "gender": "children",
+        "category": "obuwie",
+        "subcategory": "eleganckie",
+        "productName": "Brązowe buty",
+        "brand": "Classic Collection",
+        "pricePLN": 199,
+        "priceUSD": 45,
+        "photos": [
+          "http://localhost:3000/product-photos/children-shoes-1.jpg",
+          "http://localhost:3000/product-photos/children-shoes-2.jpg",
+          "http://localhost:3000/product-photos/children-shoes-3.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 31,
+        "gender": "children",
+        "category": "obuwie",
+        "subcategory": "sneakersy",
+        "productName": "Niebieskie buty",
+        "brand": "Blue Elephant Collection",
+        "pricePLN": 299,
+        "priceUSD": 75,
+        "photos": [
+          "http://localhost:3000/product-photos/children-shoes-2.jpg",
+          "http://localhost:3000/product-photos/children-shoes-1.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 32,
+        "gender": "children",
+        "category": "odziez",
+        "subcategory": "spodnie",
+        "productName": "Niebieskie spodnie",
+        "brand": "Sun zi",
+        "pricePLN": 299,
+        "priceUSD": 59,
+        "photos": [
+          "http://localhost:3000/product-photos/children-trousers-1.jpg",
+          "http://localhost:3000/product-photos/children-trousers-2.jpg",
+          "http://localhost:3000/product-photos/children-trousers-3.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 33,
+        "gender": "children",
+        "category": "odziez",
+        "subcategory": "spodnie",
+        "productName": "Różowe spodnie",
+        "brand": "Sun zi",
+        "pricePLN": 599,
+        "priceUSD": 119,
+        "photos": [
+          "http://localhost:3000/product-photos/children-trousers-2.jpg",
+          "http://localhost:3000/product-photos/children-trousers-3.jpg",
+          "http://localhost:3000/product-photos/children-trousers-1.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      }
+    ],
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+    "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu",
+    "heroImageUrl": "http://localhost:3000/product-photos/children.jpg"
+  },
+  "products": [
+    {
+      "id": 1,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-Shirt",
+      "brand": "Top Brand",
+      "pricePLN": 49,
+      "priceUSD": 10,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 2,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-Shirt",
+      "brand": "Top Brand",
+      "pricePLN": 49,
+      "priceUSD": 10,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-2.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 3,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 2",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-4.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 4,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 3",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-3.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 5,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 4",
+      "brand": "Sun Tzu",
+      "pricePLN": 129,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-5.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 6,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-Shirt",
+      "brand": "Top Brand",
+      "pricePLN": 49,
+      "priceUSD": 10,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-8.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 7,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 2",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-7.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 8,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 3",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 9,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 4",
+      "brand": "Sun Tzu",
+      "pricePLN": 129,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-8.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 10,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-Shirt",
+      "brand": "Top Brand",
+      "pricePLN": 49,
+      "priceUSD": 10,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 11,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 2",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-4.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 12,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 3",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-2.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 13,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 4",
+      "brand": "Sun Tzu",
+      "pricePLN": 129,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-6.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 14,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-Shirt",
+      "brand": "Top Brand",
+      "pricePLN": 49,
+      "priceUSD": 10,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 15,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 2",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-9.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 16,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 3",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-2.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 17,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 4",
+      "brand": "Sun Tzu",
+      "pricePLN": 129,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 18,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-Shirt",
+      "brand": "Top Brand",
+      "pricePLN": 49,
+      "priceUSD": 10,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-6.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 19,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 2",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-8.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 20,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 3",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-4.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 21,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 4",
+      "brand": "Sun Tzu",
+      "pricePLN": 129,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-5.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 22,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-Shirt",
+      "brand": "Top Brand",
+      "pricePLN": 49,
+      "priceUSD": 10,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 23,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 2",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-4.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 24,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 3",
+      "brand": "Sun Tzu",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 25,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "T-shirt 4",
+      "brand": "Sun Tzu",
+      "pricePLN": 129,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/men-t-shirt-7.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-11.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-12.jpg",
+        "http://localhost:3000/product-photos/men-t-shirt-13.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 26,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Szpilki brązowe M&X",
+      "brand": "M&X Collection",
+      "pricePLN": 79,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-1.jpg",
+        "http://localhost:3000/product-photos/women-shoes-2.jpg"
+      ],
+      "description": "Opis produktu pobrany z back endu ;)",
+      "maintenanceInfo": "Informacje o konserwacji pobrane z back-endu"
+    },
+    {
+      "id": 27,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Szpilki Białe M&X",
+      "brand": "M&X Collection",
+      "pricePLN": 99,
+      "priceUSD": 25,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-2.jpg",
+        "http://localhost:3000/product-photos/women-shoes-3.jpg",
+        "http://localhost:3000/product-photos/women-shoes-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 28,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Koszulka Czarna Magic",
+      "brand": "Magic",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-shirt-2.jpg",
+        "http://localhost:3000/product-photos/women-shirt-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 29,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Szorty damskie Jeans",
+      "brand": "Jeans",
+      "pricePLN": 149,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-5.jpg",
+        "http://localhost:3000/product-photos/women-pants-2.jpg",
+        "http://localhost:3000/product-photos/women-pants-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 34,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Szpilki Białe High",
+      "brand": "High",
+      "pricePLN": 49,
+      "priceUSD": 10,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-3.jpg",
+        "http://localhost:3000/product-photos/women-shoes-2.jpg",
+        "http://localhost:3000/product-photos/women-shoes-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 312,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka White Flowers",
+      "brand": "Flower State Collection",
+      "pricePLN": 119,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-2.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 36,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka NF Fioletowa",
+      "brand": "NF Fioletowa",
+      "pricePLN": 119,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-2.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 37,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie Szare",
+      "brand": "Shin Collection",
+      "pricePLN": 89,
+      "priceUSD": 24,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-2.jpg",
+        "http://localhost:3000/product-photos/women-pants-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 388,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Szpilki Light Moon",
+      "brand": "Light Moon",
+      "pricePLN": 209,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-8.jpg",
+        "http://localhost:3000/product-photos/women-shoes-6.jpg",
+        "http://localhost:3000/product-photos/women-shoes-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 39,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka NF Czerwona",
+      "brand": "NF Czerwona",
+      "pricePLN": 199,
+      "priceUSD": 45,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-3.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 40,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie czarno-szare długie",
+      "brand": "Shin Collection",
+      "pricePLN": 165,
+      "priceUSD": 45,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-4.jpg",
+        "http://localhost:3000/product-photos/women-pants-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 41,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Szpilki OneTap",
+      "brand": "One Tap",
+      "pricePLN": 75,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-9.jpg",
+        "http://localhost:3000/product-photos/women-shoes-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 43,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": " Koszulka NF Classic",
+      "brand": "NF Classic",
+      "pricePLN": 399,
+      "priceUSD": 89,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-4.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-2.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 44,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie Orange Dream",
+      "brand": "Orange Dream Collection",
+      "pricePLN": 99,
+      "priceUSD": 26,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-3.jpg",
+        "http://localhost:3000/product-photos/women-pants-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 45,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Koszulka w kratkę Fioletowa",
+      "brand": "Violet Collection",
+      "pricePLN": 79,
+      "priceUSD": 22,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-5.jpg",
+        "http://localhost:3000/product-photos/women-shirt-4.jpg",
+        "http://localhost:3000/product-photos/women-shirt-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 46,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie damskie Moro",
+      "brand": "Moro Collection",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-1.jpg",
+        "http://localhost:3000/product-photos/women-pants-2.jpg",
+        "http://localhost:3000/product-photos/women-pants-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 30,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Brązowe buty",
+      "brand": "Classic Collection",
+      "pricePLN": 199,
+      "priceUSD": 45,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-1.jpg",
+        "http://localhost:3000/product-photos/children-shoes-2.jpg",
+        "http://localhost:3000/product-photos/children-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 31,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "Niebieskie buty",
+      "brand": "Blue Elephant Collection",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-2.jpg",
+        "http://localhost:3000/product-photos/children-shoes-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 32,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Niebieskie spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-1.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 33,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Różowe spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 599,
+      "priceUSD": 119,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 46,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty dziecięce OP90",
+      "brand": "Buty dziecięce",
+      "pricePLN": 59,
+      "priceUSD": 15,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-6.jpg",
+        "http://localhost:3000/product-photos/children-shoes-2.jpg",
+        "http://localhost:3000/product-photos/children-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 47,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "Sneakersy Dziecięce",
+      "brand": "Sneakers",
+      "pricePLN": 400,
+      "priceUSD": 95,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-5.jpg",
+        "http://localhost:3000/product-photos/children-shoes-1.jpg",
+        "http://localhost:3000/product-photos/children-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 48,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie dziecięce Classic",
+      "brand": "Classic Collection",
+      "pricePLN": 199,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-3.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 49,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie Szorty Szare",
+      "brand": "ADI Collection",
+      "pricePLN": 299,
+      "priceUSD": 79,
+      "photos": [
+        "http://localhost:3000/product-photos/men-pants-4.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 51,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Różowe buty dziecięce",
+      "brand": "PinkWard",
+      "pricePLN": 75,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-8.jpg",
+        "http://localhost:3000/product-photos/children-shoes-2.jpg",
+        "http://localhost:3000/product-photos/children-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 52,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "Sneakersy ADI Białe",
+      "brand": "ADI Sneakers",
+      "pricePLN": 220,
+      "priceUSD": 65,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-9.jpg",
+        "http://localhost:3000/product-photos/children-shoes-10.jpg",
+        "http://localhost:3000/product-photos/children-shoes-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 53,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Niebieskie spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-1.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 54,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie Szorty Szare",
+      "brand": "ADI Collection",
+      "pricePLN": 299,
+      "priceUSD": 79,
+      "photos": [
+        "http://localhost:3000/product-photos/men-pants-4.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 56,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty dziecięce KOL",
+      "brand": "KOL Collection",
+      "pricePLN": 45,
+      "priceUSD": 9,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-7.jpg",
+        "http://localhost:3000/product-photos/children-shoes-2.jpg",
+        "http://localhost:3000/product-photos/children-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 58,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Niebieskie spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-1.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 59,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Różowe spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 599,
+      "priceUSD": 119,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 61,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty dziecięce ZAQ Collection",
+      "brand": "ZAQ Collection",
+      "pricePLN": 350,
+      "priceUSD": 89,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-5.jpg",
+        "http://localhost:3000/product-photos/children-shoes-2.jpg",
+        "http://localhost:3000/product-photos/children-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 63,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Niebieskie spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-1.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 64,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie dziecięce Classic",
+      "brand": "Classic Collection",
+      "pricePLN": 599,
+      "priceUSD": 119,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-3.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 66,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty dziecięce Big Pink",
+      "brand": "Big Pink Collection",
+      "pricePLN": 499,
+      "priceUSD": 99,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-9.jpg",
+        "http://localhost:3000/product-photos/children-shoes-2.jpg",
+        "http://localhost:3000/product-photos/children-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 68,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Niebieskie spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-1.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 69,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Różowe spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 599,
+      "priceUSD": 119,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 71,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Szare buty dziecięce",
+      "brand": "Szare buty dziecięce ADI",
+      "pricePLN": 79,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-4.jpg",
+        "http://localhost:3000/product-photos/children-shoes-2.jpg",
+        "http://localhost:3000/product-photos/children-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 73,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Niebieskie spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-1.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 74,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Różowe spodnie",
+      "brand": "Sun zi",
+      "pricePLN": 599,
+      "priceUSD": 119,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 75,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty eleganckie ADI",
+      "brand": "ADI",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-1.jpeg",
+        "http://localhost:3000/product-photos/men-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 76,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty eleganckie MS Super",
+      "brand": "MS Super",
+      "pricePLN": 349,
+      "priceUSD": 89,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-4.jpg",
+        "http://localhost:3000/product-photos/men-shoes-5.jpg",
+        "http://localhost:3000/product-photos/men-shoes-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 77,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty eleganckie ADI",
+      "brand": "ADI",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-3.jpg",
+        "http://localhost:3000/product-photos/men-shoes-1.jpeg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 78,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty eleganckie ADI",
+      "brand": "ADI",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-15.jpg",
+        "http://localhost:3000/product-photos/men-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 79,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty Smack",
+      "brand": "Smack",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-2.jpg",
+        "http://localhost:3000/product-photos/men-shoes-7.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 80,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty eleganckie ADI",
+      "brand": "ADI",
+      "pricePLN": 199,
+      "priceUSD": 40,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-3.jpg",
+        "http://localhost:3000/product-photos/men-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 81,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty Smack",
+      "brand": "Smack",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-7.jpg",
+        "http://localhost:3000/product-photos/men-shoes-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 82,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty eleganckie MS Super",
+      "brand": "MS Super",
+      "pricePLN": 349,
+      "priceUSD": 89,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-4.jpg",
+        "http://localhost:3000/product-photos/men-shoes-5.jpg",
+        "http://localhost:3000/product-photos/men-shoes-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 83,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty eleganckie MS Super",
+      "brand": "MS Super",
+      "pricePLN": 349,
+      "priceUSD": 89,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-4.jpg",
+        "http://localhost:3000/product-photos/men-shoes-5.jpg",
+        "http://localhost:3000/product-photos/men-shoes-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 84,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty Smack",
+      "brand": "Smack",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-2.jpg",
+        "http://localhost:3000/product-photos/men-shoes-7.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 85,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty eleganckie ADI",
+      "brand": "ADI",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-15.jpg",
+        "http://localhost:3000/product-photos/men-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 86,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty eleganckie ADI",
+      "brand": "ADI",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-3.jpg",
+        "http://localhost:3000/product-photos/men-shoes-1.jpeg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 87,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe TRAIN NOW",
+      "brand": "TRAIN NOW",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-8.jpg",
+        "http://localhost:3000/product-photos/men-shoes-14.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 88,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NIDE",
+      "brand": "NIDE",
+      "pricePLN": 799,
+      "priceUSD": 205,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-9.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 89,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe RED DAY",
+      "brand": "RED DAY",
+      "pricePLN": 699,
+      "priceUSD": 175,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-12.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 90,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NEON F1",
+      "brand": "NEON F1",
+      "pricePLN": 1299,
+      "priceUSD": 225,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-13.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 91,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe WHITE ARROW",
+      "brand": "WHITE ARROW",
+      "pricePLN": 699,
+      "priceUSD": 175,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-14.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 92,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NEON F1",
+      "brand": "NEON F1",
+      "pricePLN": 1299,
+      "priceUSD": 225,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-13.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 93,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe TRAIN NOW",
+      "brand": "TRAIN NOW",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-8.jpg",
+        "http://localhost:3000/product-photos/men-shoes-14.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 94,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe WHITE ARROW",
+      "brand": "WHITE ARROW",
+      "pricePLN": 699,
+      "priceUSD": 175,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-14.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 95,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NIDE",
+      "brand": "NIDE",
+      "pricePLN": 799,
+      "priceUSD": 205,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-9.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 96,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe RED DAY",
+      "brand": "RED DAY",
+      "pricePLN": 699,
+      "priceUSD": 175,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-12.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 97,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NEON F1",
+      "brand": "NEON F1",
+      "pricePLN": 1299,
+      "priceUSD": 225,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-13.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 98,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe WHITE ARROW",
+      "brand": "WHITE ARROW",
+      "pricePLN": 699,
+      "priceUSD": 175,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-14.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 99,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe TRAIN NOW",
+      "brand": "TRAIN NOW",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-8.jpg",
+        "http://localhost:3000/product-photos/men-shoes-14.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 100,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NIDE",
+      "brand": "NIDE",
+      "pricePLN": 799,
+      "priceUSD": 205,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-9.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 101,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe RED DAY",
+      "brand": "RED DAY",
+      "pricePLN": 699,
+      "priceUSD": 175,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-12.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 102,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe TRAIN NOW",
+      "brand": "TRAIN NOW",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-8.jpg",
+        "http://localhost:3000/product-photos/men-shoes-14.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 103,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe WHITE ARROW",
+      "brand": "WHITE ARROW",
+      "pricePLN": 699,
+      "priceUSD": 175,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-14.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 104,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe RED DAY",
+      "brand": "RED DAY",
+      "pricePLN": 699,
+      "priceUSD": 175,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-12.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 105,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NEON F1",
+      "brand": "NEON F1",
+      "pricePLN": 1299,
+      "priceUSD": 225,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-13.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 106,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NIDE",
+      "brand": "NIDE",
+      "pricePLN": 799,
+      "priceUSD": 205,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-9.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 107,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "SNEAKERS NIDE",
+      "brand": "NIDE",
+      "pricePLN": 799,
+      "priceUSD": 205,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-17.jpg",
+        "http://localhost:3000/product-photos/men-shoes-18.jpg",
+        "http://localhost:3000/product-photos/men-shoes-19.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 108,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "SNEAKERS COLAR",
+      "brand": "COLAR",
+      "pricePLN": 599,
+      "priceUSD": 145,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-16.jpg",
+        "http://localhost:3000/product-photos/men-shoes-19.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 109,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "SNEAKERS C20",
+      "brand": "C20",
+      "pricePLN": 499,
+      "priceUSD": 119,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-18.jpg",
+        "http://localhost:3000/product-photos/men-shoes-19.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 110,
+      "gender": "men",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "SNEAKERS MAD STORM",
+      "brand": "MAD STORM",
+      "pricePLN": 499,
+      "priceUSD": 119,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-19.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 111,
+      "gender": "men",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Torba wyjazdowa",
+      "brand": "Torba wyjazdowa",
+      "pricePLN": 79,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-1.jpg",
+        "http://localhost:3000/product-photos/men-bag-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 112,
+      "gender": "men",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Torba wyjazdowa brązowa",
+      "brand": "Torba wyjazdowa brązowa",
+      "pricePLN": 99,
+      "priceUSD": 26,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-2.jpg",
+        "http://localhost:3000/product-photos/men-bag-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 113,
+      "gender": "men",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Plecak górski",
+      "brand": "Plecak górski",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-3.jpg",
+        "http://localhost:3000/product-photos/men-bag-5.jpg",
+        "http://localhost:3000/product-photos/men-bag-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 114,
+      "gender": "men",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Plecak",
+      "brand": "Plecak",
+      "pricePLN": 110,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-7.jpg",
+        "http://localhost:3000/product-photos/men-bag-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 115,
+      "gender": "men",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "Zegarek GOLD S",
+      "brand": "GOLD S",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-1.jpg",
+        "http://localhost:3000/product-photos/men-cloak-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 116,
+      "gender": "men",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "Gentelman Time",
+      "brand": "Gentelman Time",
+      "pricePLN": 399,
+      "priceUSD": 95,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-2.jpg",
+        "http://localhost:3000/product-photos/men-cloak-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 117,
+      "gender": "men",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "Golden Team Cloaks",
+      "brand": "Golden Team Cloaks",
+      "pricePLN": 479,
+      "priceUSD": 120,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-3.jpg",
+        "http://localhost:3000/product-photos/men-cloak-7.jpg",
+        "http://localhost:3000/product-photos/men-cloak-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 118,
+      "gender": "men",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "ROLEX",
+      "brand": "ROLEX",
+      "pricePLN": 7300,
+      "priceUSD": 1829,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-4.jpg",
+        "http://localhost:3000/product-photos/men-cloak-9.jpg",
+        "http://localhost:3000/product-photos/men-cloak-10.jpg",
+        "http://localhost:3000/product-photos/men-cloak-11.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 119,
+      "gender": "men",
+      "category": "sport",
+      "subcategory": "pilkanozna",
+      "productName": "Piłka AdiD",
+      "brand": "Piłka Adid",
+      "pricePLN": 29,
+      "priceUSD": 7,
+      "photos": [
+        "http://localhost:3000/product-photos/men-ball-1.jpg",
+        "http://localhost:3000/product-photos/men-ball-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 120,
+      "gender": "men",
+      "category": "sport",
+      "subcategory": "narty",
+      "productName": "Gogle narciarskie SnowDay",
+      "brand": "Gogle narciarskie SnowDay",
+      "pricePLN": 199,
+      "priceUSD": 45,
+      "photos": [
+        "http://localhost:3000/product-photos/men-ski-2.jpg",
+        "http://localhost:3000/product-photos/men-ski-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 121,
+      "gender": "men",
+      "category": "sport",
+      "subcategory": "narty",
+      "productName": "Narty Naval",
+      "brand": "Narty Naval",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-ski-3.jpg",
+        "http://localhost:3000/product-photos/men-ski-4.jpg",
+        "http://localhost:3000/product-photos/men-ski-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 122,
+      "gender": "men",
+      "category": "sport",
+      "subcategory": "plywanie",
+      "productName": "Okulary pływackie",
+      "brand": "Okulary pływackie",
+      "pricePLN": 89,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/men-swimming-1.jpg",
+        "http://localhost:3000/product-photos/men-swimming-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 123,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter POX Brązowy",
+      "brand": "Sweter POX",
+      "pricePLN": 89,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-1.png",
+        "http://localhost:3000/product-photos/men-shirt-2.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 124,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter POX Zielony",
+      "brand": "Sweter POX",
+      "pricePLN": 89,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-2.png",
+        "http://localhost:3000/product-photos/men-shirt-1.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 125,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter MYSTYLES Szary",
+      "brand": "Sweter MYSTYLES",
+      "pricePLN": 129,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-5.jpg",
+        "http://localhost:3000/product-photos/men-shirt-1.png",
+        "http://localhost:3000/product-photos/men-shirt-2.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 126,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter MYSTYLES Czerwony",
+      "brand": "Sweter MYSTYLES",
+      "pricePLN": 199,
+      "priceUSD": 45,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-4.jpg",
+        "http://localhost:3000/product-photos/men-shirt-1.png",
+        "http://localhost:3000/product-photos/men-shirt-2.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 127,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Koszula MysteryRed",
+      "brand": "Koszula MysteryRed",
+      "pricePLN": 259,
+      "priceUSD": 65,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-3.jpg",
+        "http://localhost:3000/product-photos/men-shirt-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 128,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter MYSTYLES",
+      "brand": "Sweter MYSTYLES",
+      "pricePLN": 129,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-8.jpg",
+        "http://localhost:3000/product-photos/men-shirt-1.png",
+        "http://localhost:3000/product-photos/men-shirt-2.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 129,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter OrginalHome",
+      "brand": "Sweter OriginalHome",
+      "pricePLN": 129,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-9.jpg",
+        "http://localhost:3000/product-photos/men-shirt-1.png",
+        "http://localhost:3000/product-photos/men-shirt-2.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 130,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter Gray",
+      "brand": "Sweter Gray",
+      "pricePLN": 49,
+      "priceUSD": 12,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-6.jpg",
+        "http://localhost:3000/product-photos/men-shirt-1.png",
+        "http://localhost:3000/product-photos/men-shirt-2.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 131,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter Figures C.O.P",
+      "brand": "Sweter Figures C.O.P",
+      "pricePLN": 49,
+      "priceUSD": 12,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-7.jpg",
+        "http://localhost:3000/product-photos/men-shirt-1.png",
+        "http://localhost:3000/product-photos/men-shirt-2.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 132,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Szorty MIKE Szare",
+      "brand": "Szorty MIKE",
+      "pricePLN": 79,
+      "priceUSD": 18,
+      "photos": [
+        "http://localhost:3000/product-photos/men-pants-4.jpg",
+        "http://localhost:3000/product-photos/men-pants-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 133,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Szorty Jeans",
+      "brand": "Szorty Jeans",
+      "pricePLN": 79,
+      "priceUSD": 18,
+      "photos": [
+        "http://localhost:3000/product-photos/men-pants-3.jpg",
+        "http://localhost:3000/product-photos/men-pants-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 134,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie Jeans Szare",
+      "brand": "Spodnie Jeans Szare",
+      "pricePLN": 119,
+      "priceUSD": 25,
+      "photos": [
+        "http://localhost:3000/product-photos/men-pants-5.jpg",
+        "http://localhost:3000/product-photos/men-pants-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 135,
+      "gender": "men",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie Jeans Ciemne",
+      "brand": "Spodnie Jeans Ciemne",
+      "pricePLN": 119,
+      "priceUSD": 25,
+      "photos": [
+        "http://localhost:3000/product-photos/men-pants-6.jpg",
+        "http://localhost:3000/product-photos/men-pants-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 136,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka CAF BIN",
+      "brand": "Sun zi",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-9.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 137,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka Gangsta",
+      "brand": "Gangsta Collection",
+      "pricePLN": 150,
+      "priceUSD": 35,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-6.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 138,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka Zebra",
+      "brand": "Zebra Collection",
+      "pricePLN": 79,
+      "priceUSD": 16,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-7.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 139,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka Garden Syndrome",
+      "brand": "Garden Syndrome Colleciton",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-8.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 140,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Podkoszulka Czarna Sun",
+      "brand": "Sun Collection",
+      "pricePLN": 109,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-5.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 141,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Podkoszulka Biała Sun",
+      "brand": "Sun Collection",
+      "pricePLN": 99,
+      "priceUSD": 25,
+      "photos": [
+        "http://localhost:3000/product-photos/women-t-shirt-10.jpg",
+        "http://localhost:3000/product-photos/women-t-shirt-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 142,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Koszulka Biała NF",
+      "brand": "NF Collection",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-3.jpg",
+        "http://localhost:3000/product-photos/women-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-shirt-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 143,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter Niebieski DolphinC",
+      "brand": "DolphinC",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-4.jpg",
+        "http://localhost:3000/product-photos/women-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-shirt-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 144,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Biały Sweter Nemo",
+      "brand": "Nemo",
+      "pricePLN": 99,
+      "priceUSD": 25,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-2.jpg",
+        "http://localhost:3000/product-photos/women-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-shirt-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 145,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Christmas Fever",
+      "brand": "Christmas Fever",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-7.jpg",
+        "http://localhost:3000/product-photos/women-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-shirt-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 146,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter Red Owl",
+      "brand": "Red Owl",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-8.jpg",
+        "http://localhost:3000/product-photos/women-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-shirt-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 147,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Koszula Urban",
+      "brand": "Urban",
+      "pricePLN": 65,
+      "priceUSD": 15,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-6.jpg",
+        "http://localhost:3000/product-photos/women-shirt-3.jpg",
+        "http://localhost:3000/product-photos/women-shirt-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 148,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Koszulka Biała NF",
+      "brand": "NF Collection",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-3.jpg",
+        "http://localhost:3000/product-photos/women-shirt-6.jpg",
+        "http://localhost:3000/product-photos/women-shirt-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 149,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Koszulka w kratkę Fioletowa",
+      "brand": "Violet Collection",
+      "pricePLN": 79,
+      "priceUSD": 22,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-5.jpg",
+        "http://localhost:3000/product-photos/women-shirt-6.jpg",
+        "http://localhost:3000/product-photos/women-shirt-7.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum. I made this - Visth",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 150,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter Red Owl",
+      "brand": "Red Owl",
+      "pricePLN": 299,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shirt-8.jpg",
+        "http://localhost:3000/product-photos/women-shirt-1.jpg",
+        "http://localhost:3000/product-photos/women-shirt-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 151,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie ciemne Jeans",
+      "brand": "Jeans",
+      "pricePLN": 139,
+      "priceUSD": 32,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-7.jpg",
+        "http://localhost:3000/product-photos/women-pants-2.jpg",
+        "http://localhost:3000/product-photos/women-pants-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 152,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie jasno-szare Jeans",
+      "brand": "Jeans",
+      "pricePLN": 149,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-6.jpg",
+        "http://localhost:3000/product-photos/women-pants-2.jpg",
+        "http://localhost:3000/product-photos/women-pants-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 153,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie Białe",
+      "brand": "SnowWhite",
+      "pricePLN": 249,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-8.jpg",
+        "http://localhost:3000/product-photos/women-pants-2.jpg",
+        "http://localhost:3000/product-photos/women-pants-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 154,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie jasno-szare Jeans",
+      "brand": "Jeans",
+      "pricePLN": 149,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-6.jpg",
+        "http://localhost:3000/product-photos/women-pants-2.jpg",
+        "http://localhost:3000/product-photos/women-pants-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 155,
+      "gender": "women",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie ciemne Jeans",
+      "brand": "Jeans",
+      "pricePLN": 139,
+      "priceUSD": 32,
+      "photos": [
+        "http://localhost:3000/product-photos/women-pants-7.jpg",
+        "http://localhost:3000/product-photos/women-pants-2.jpg",
+        "http://localhost:3000/product-photos/women-pants-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 156,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe PinkTime",
+      "brand": "PinkTime",
+      "pricePLN": 175,
+      "priceUSD": 41,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-5.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 157,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe TrampBump",
+      "brand": "TrampBump",
+      "pricePLN": 225,
+      "priceUSD": 55,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-7.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 158,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NS White",
+      "brand": "NS White",
+      "pricePLN": 125,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-8.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 159,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe MyShoes",
+      "brand": "MyShoes",
+      "pricePLN": 525,
+      "priceUSD": 115,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-17.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 160,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe NSK",
+      "brand": "NSK",
+      "pricePLN": 725,
+      "priceUSD": 205,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-16.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 161,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe JamYT",
+      "brand": "JamYT Collection",
+      "pricePLN": 925,
+      "priceUSD": 299,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-18.jpg",
+        "http://localhost:3000/product-photos/men-shoes-17.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 162,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe 8LESS8",
+      "brand": "8LESS8 Collection",
+      "pricePLN": 420,
+      "priceUSD": 105,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-9.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 163,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty zimowe Vanguard",
+      "brand": "Vanguard",
+      "pricePLN": 420,
+      "priceUSD": 105,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-10.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 164,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe BlackRock",
+      "brand": "BlackRock",
+      "pricePLN": 777,
+      "priceUSD": 285,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-19.jpg",
+        "http://localhost:3000/product-photos/men-shoes-11.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 165,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe SoS",
+      "brand": "SoS",
+      "pricePLN": 159,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-13.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 166,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "Sneakersy MVN",
+      "brand": "MVN",
+      "pricePLN": 250,
+      "priceUSD": 59,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-16.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 167,
+      "gender": "women",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "Sneakersy MVN",
+      "brand": "MVN",
+      "pricePLN": 399,
+      "priceUSD": 95,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-12.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 168,
+      "gender": "women",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Torba wyjazdowa",
+      "brand": "Torba wyjazdowa",
+      "pricePLN": 79,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-1.jpg",
+        "http://localhost:3000/product-photos/men-bag-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 169,
+      "gender": "women",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Torba wyjazdowa brązowa",
+      "brand": "Torba wyjazdowa brązowa",
+      "pricePLN": 99,
+      "priceUSD": 26,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-2.jpg",
+        "http://localhost:3000/product-photos/men-bag-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 170,
+      "gender": "women",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Plecak górski",
+      "brand": "Plecak górski",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-3.jpg",
+        "http://localhost:3000/product-photos/men-bag-5.jpg",
+        "http://localhost:3000/product-photos/men-bag-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 171,
+      "gender": "women",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Plecak",
+      "brand": "Plecak",
+      "pricePLN": 110,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-7.jpg",
+        "http://localhost:3000/product-photos/men-bag-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 172,
+      "gender": "women",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "Zegarek GOLD S",
+      "brand": "GOLD S",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-1.jpg",
+        "http://localhost:3000/product-photos/men-cloak-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 173,
+      "gender": "women",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "Gentelman Time",
+      "brand": "Gentelman Time",
+      "pricePLN": 399,
+      "priceUSD": 95,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-2.jpg",
+        "http://localhost:3000/product-photos/men-cloak-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 174,
+      "gender": "women",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "Golden Team Cloaks",
+      "brand": "Golden Team Cloaks",
+      "pricePLN": 479,
+      "priceUSD": 120,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-3.jpg",
+        "http://localhost:3000/product-photos/men-cloak-7.jpg",
+        "http://localhost:3000/product-photos/men-cloak-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 175,
+      "gender": "women",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "ROLEX",
+      "brand": "ROLEX",
+      "pricePLN": 7300,
+      "priceUSD": 1829,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-4.jpg",
+        "http://localhost:3000/product-photos/men-cloak-9.jpg",
+        "http://localhost:3000/product-photos/men-cloak-10.jpg",
+        "http://localhost:3000/product-photos/men-cloak-11.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 176,
+      "gender": "women",
+      "category": "sport",
+      "subcategory": "pilkanozna",
+      "productName": "Piłka AdiD",
+      "brand": "Piłka Adid",
+      "pricePLN": 29,
+      "priceUSD": 7,
+      "photos": [
+        "http://localhost:3000/product-photos/men-ball-1.jpg",
+        "http://localhost:3000/product-photos/men-ball-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 177,
+      "gender": "women",
+      "category": "sport",
+      "subcategory": "narty",
+      "productName": "Gogle narciarskie SnowDay",
+      "brand": "Gogle narciarskie SnowDay",
+      "pricePLN": 199,
+      "priceUSD": 45,
+      "photos": [
+        "http://localhost:3000/product-photos/men-ski-2.jpg",
+        "http://localhost:3000/product-photos/men-ski-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 178,
+      "gender": "women",
+      "category": "sport",
+      "subcategory": "narty",
+      "productName": "Narty Naval",
+      "brand": "Narty Naval",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-ski-3.jpg",
+        "http://localhost:3000/product-photos/men-ski-4.jpg",
+        "http://localhost:3000/product-photos/men-ski-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 179,
+      "gender": "women",
+      "category": "sport",
+      "subcategory": "plywanie",
+      "productName": "Okulary pływackie",
+      "brand": "Okulary pływackie",
+      "pricePLN": 89,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/men-swimming-1.jpg",
+        "http://localhost:3000/product-photos/men-swimming-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 180,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka HappyKid Czarna",
+      "brand": "HappyKid Collection",
+      "pricePLN": 109,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/children-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/children-t-shirt-2.jpg",
+        "http://localhost:3000/product-photos/children-t-shirt-3.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 181,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka HappyKid Biała",
+      "brand": "HappyKid Collection",
+      "pricePLN": 109,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/children-t-shirt-2.jpg",
+        "http://localhost:3000/product-photos/children-t-shirt-1.jpg",
+        "http://localhost:3000/product-photos/children-t-shirt-3.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 182,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka w kratkę YoungGen",
+      "brand": "YoungGen Collection",
+      "pricePLN": 89,
+      "priceUSD": 25,
+      "photos": [
+        "http://localhost:3000/product-photos/children-t-shirt-5.jpg",
+        "http://localhost:3000/product-photos/children-t-shirt-3.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 183,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "koszulki",
+      "productName": "Koszulka Szara BalticFish",
+      "brand": "BalticFish Collection",
+      "pricePLN": 209,
+      "priceUSD": 50,
+      "photos": [
+        "http://localhost:3000/product-photos/children-t-shirt-4.jpg",
+        "http://localhost:3000/product-photos/children-t-shirt-3.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 184,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter Classic Nimek",
+      "brand": "Nimek Collection",
+      "pricePLN": 129,
+      "priceUSD": 35,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-1.png",
+        "http://localhost:3000/product-photos/men-shirt-2.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 185,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "swetry",
+      "productName": "Sweter Zielony Nimek",
+      "brand": "Nimek Collection",
+      "pricePLN": 129,
+      "priceUSD": 35,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shirt-2.png",
+        "http://localhost:3000/product-photos/men-shirt-1.png"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 186,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie Szorty Szare",
+      "brand": "ADI Collection",
+      "pricePLN": 299,
+      "priceUSD": 79,
+      "photos": [
+        "http://localhost:3000/product-photos/men-pants-4.jpg",
+        "http://localhost:3000/product-photos/children-trousers-3.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 188,
+      "gender": "children",
+      "category": "odziez",
+      "subcategory": "spodnie",
+      "productName": "Spodnie dziecięce Classic",
+      "brand": "Classic Collection",
+      "pricePLN": 199,
+      "priceUSD": 39,
+      "photos": [
+        "http://localhost:3000/product-photos/children-trousers-3.jpg",
+        "http://localhost:3000/product-photos/children-trousers-2.jpg",
+        "http://localhost:3000/product-photos/children-trousers-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 189,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "eleganckie",
+      "productName": "Buty dziecięce Childhood",
+      "brand": "ADI Collection",
+      "pricePLN": 105,
+      "priceUSD": 24,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-10.jpg",
+        "http://localhost:3000/product-photos/children-shoes-2.jpg",
+        "http://localhost:3000/product-photos/children-shoes-3.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 190,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty dziecięce sportowe ADI",
+      "brand": "ADI Collection",
+      "pricePLN": 105,
+      "priceUSD": 24,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-16.jpg",
+        "http://localhost:3000/product-photos/children-shoes-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 191,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty dziecięce sportowe M-Q",
+      "brand": "M-Q Collection",
+      "pricePLN": 225,
+      "priceUSD": 55,
+      "photos": [
+        "http://localhost:3000/product-photos/men-shoes-8.jpg",
+        "http://localhost:3000/product-photos/men-shoes-10.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 192,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Sandały dziecięce",
+      "brand": "Sandały PL",
+      "pricePLN": 95,
+      "priceUSD": 24,
+      "photos": [
+        "http://localhost:3000/product-photos/children-shoes-3.jpg",
+        "http://localhost:3000/product-photos/children-shoes-4.jpg",
+        "http://localhost:3000/product-photos/children-shoes-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 193,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "sportowe",
+      "productName": "Buty sportowe Różowe ADI",
+      "brand": "Sandały PL",
+      "pricePLN": 185,
+      "priceUSD": 44,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-5.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 194,
+      "gender": "children",
+      "category": "obuwie",
+      "subcategory": "sneakersy",
+      "productName": "Sneakersy ADI Różowe",
+      "brand": "Sneakersy ADI Różowe",
+      "pricePLN": 185,
+      "priceUSD": 44,
+      "photos": [
+        "http://localhost:3000/product-photos/women-shoes-5.jpg",
+        "http://localhost:3000/product-photos/women-shoes-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 195,
+      "gender": "children",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Torba wyjazdowa",
+      "brand": "Torba wyjazdowa",
+      "pricePLN": 79,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-1.jpg",
+        "http://localhost:3000/product-photos/men-bag-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 196,
+      "gender": "children",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Torba wyjazdowa brązowa",
+      "brand": "Torba wyjazdowa brązowa",
+      "pricePLN": 99,
+      "priceUSD": 26,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-2.jpg",
+        "http://localhost:3000/product-photos/men-bag-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 197,
+      "gender": "children",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Plecak górski",
+      "brand": "Plecak górski",
+      "pricePLN": 199,
+      "priceUSD": 49,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-3.jpg",
+        "http://localhost:3000/product-photos/men-bag-5.jpg",
+        "http://localhost:3000/product-photos/men-bag-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 198,
+      "gender": "children",
+      "category": "akcesoria",
+      "subcategory": "torby",
+      "productName": "Plecak",
+      "brand": "Plecak",
+      "pricePLN": 110,
+      "priceUSD": 29,
+      "photos": [
+        "http://localhost:3000/product-photos/men-bag-7.jpg",
+        "http://localhost:3000/product-photos/men-bag-4.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 199,
+      "gender": "children",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "Zegarek GOLD S",
+      "brand": "GOLD S",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-1.jpg",
+        "http://localhost:3000/product-photos/men-cloak-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 200,
+      "gender": "children",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "Gentelman Time",
+      "brand": "Gentelman Time",
+      "pricePLN": 399,
+      "priceUSD": 95,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-2.jpg",
+        "http://localhost:3000/product-photos/men-cloak-6.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 201,
+      "gender": "children",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "Golden Team Cloaks",
+      "brand": "Golden Team Cloaks",
+      "pricePLN": 479,
+      "priceUSD": 120,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-3.jpg",
+        "http://localhost:3000/product-photos/men-cloak-7.jpg",
+        "http://localhost:3000/product-photos/men-cloak-8.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 202,
+      "gender": "children",
+      "category": "akcesoria",
+      "subcategory": "zegarki",
+      "productName": "ROLEX",
+      "brand": "ROLEX",
+      "pricePLN": 7300,
+      "priceUSD": 1829,
+      "photos": [
+        "http://localhost:3000/product-photos/men-cloak-4.jpg",
+        "http://localhost:3000/product-photos/men-cloak-9.jpg",
+        "http://localhost:3000/product-photos/men-cloak-10.jpg",
+        "http://localhost:3000/product-photos/men-cloak-11.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 203,
+      "gender": "children",
+      "category": "sport",
+      "subcategory": "pilkanozna",
+      "productName": "Piłka AdiD",
+      "brand": "Piłka Adid",
+      "pricePLN": 29,
+      "priceUSD": 7,
+      "photos": [
+        "http://localhost:3000/product-photos/men-ball-1.jpg",
+        "http://localhost:3000/product-photos/men-ball-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 204,
+      "gender": "children",
+      "category": "sport",
+      "subcategory": "narty",
+      "productName": "Gogle narciarskie SnowDay",
+      "brand": "Gogle narciarskie SnowDay",
+      "pricePLN": 199,
+      "priceUSD": 45,
+      "photos": [
+        "http://localhost:3000/product-photos/men-ski-2.jpg",
+        "http://localhost:3000/product-photos/men-ski-1.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 205,
+      "gender": "children",
+      "category": "sport",
+      "subcategory": "narty",
+      "productName": "Narty Naval",
+      "brand": "Narty Naval",
+      "pricePLN": 299,
+      "priceUSD": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men-ski-3.jpg",
+        "http://localhost:3000/product-photos/men-ski-4.jpg",
+        "http://localhost:3000/product-photos/men-ski-5.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 206,
+      "gender": "children",
+      "category": "sport",
+      "subcategory": "plywanie",
+      "productName": "Okulary pływackie",
+      "brand": "Okulary pływackie",
+      "pricePLN": 89,
+      "priceUSD": 19,
+      "photos": [
+        "http://localhost:3000/product-photos/men-swimming-1.jpg",
+        "http://localhost:3000/product-photos/men-swimming-2.jpg"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    }
+  ],
+  "favourites": [
+    {
+      "productId": 32,
+      "id": 1
+    }
+  ]
+}

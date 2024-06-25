@@ -1,0 +1,41 @@
+.product {
+	position: relative;
+	margin: 0 20px;
+}
+
+.product button {
+	border: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 1.5rem;
+	height: 1.5rem;
+	/* background: none; */
+	background-image: url("../../assets/heart.svg");
+	background-repeat: none;
+}
+
+.product button:focus {
+	outline: none;
+	background-image: url("../../assets/heart-full.svg");
+}
+
+.product img {
+	object-fit: cover;
+	width: 300px;
+	height: 400px;
+}
+
+.product h3 {
+	font-weight: 700;
+	margin: 0.5rem 0;
+}
+
+.product p {
+	color: var(--color-price);
+	margin-bottom: 1rem;
+}
+
+.product button:hover {
+	background-image: url("../../assets/heart-full.svg");
+}
