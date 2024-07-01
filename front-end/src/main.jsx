@@ -7,7 +7,7 @@ import { MainPage } from "./views/MainPage/MainPage";
 import { Cart } from "./views/Cart/Cart";
 import { Favourites } from "./views/Favourites/Favourites";
 import { Layout } from "./components/Layout/Layout";
-import { mainPageLoader } from "./api/MainPageLoader";
+import { mainPageLoader } from "./api/mainPageLoader.js";
 import { ProductsList } from "./views/ProductsList/ProductsList";
 import { productListLoader } from "./api/productListLoader";
 import { ProductDetails } from "./views/ProductDetails/ProductDetails";
